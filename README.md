@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Danil, 23yo<br><br>Python/JavaScript Developer<br><br>🎓 ITMO master's degree graduate
+Danil, 25yo<br><br>Python/JavaScript Developer<br><br>🎓 ITMO PhD student
 
 
 # 💻 Tech Stack:
